@@ -46,6 +46,7 @@ These are mostly challenges that have to do with loops, conditionals, and string
 2. [Get Sum Test Challenge](./01-basic-challenges-1/02-get-sum/readme.md)
 3. [Calculator](./01-basic-challenges-1/03-calculator/readme.md)
 4. [Count Occurrences](./01-basic-challenges-1/04-count-occurrences/readme.md)
+    4.1 Use split approach to get count occurrences
 5. [Find Max Number](./01-basic-challenges-1/05-find-max-number/readme.md)
 6. [Title Case](./01-basic-challenges-1/06-title-case/readme.md)
 7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
@@ -188,3 +189,7 @@ In this section, we will get into sorting algorithms. We will start with `bubble
 9. [Merge Sort Implementation](./09-sorting-algorithms/09-merge-sort-implementation/readme.md)
 10. [Quick Sort Algorithm](./09-sorting-algorithms/10-quick-sort-algorithm/readme.md)
 11. [Quick Sort Implementation](./09-sorting-algorithms/11-quick-sort-implementation/readme.md)
+
+## Challanges may ask in interview
+7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
+10. [Remove Duplicates](./01-basic-challenges-1/10-remove-duplicates/readme.md)
