@@ -62,6 +62,7 @@ These are more challenges that have to do with iteration. They are slightly hard
 2. [Array Intersection](./02-basic-challenges-2/02-array-intersection/readme.md)
 3. [Display Likes](./02-basic-challenges-2/03-display-likes/readme.md)
 4. [Find Missing Number](./02-basic-challenges-2/04-find-missing-number/readme.md)
+ 4.1. Gauss formula sum
 5. [Find Missing Letter](./02-basic-challenges-2/05-find-missing-letter/readme.md)
 6. [Are All Characters Unique](./02-basic-challenges-2/06-are-all-chars-unique/readme.md)
 7. [First Non-Repeating Character](./02-basic-challenges-2/07-first-non-repeating/readme.md)
@@ -191,5 +192,6 @@ In this section, we will get into sorting algorithms. We will start with `bubble
 11. [Quick Sort Implementation](./09-sorting-algorithms/11-quick-sort-implementation/readme.md)
 
 ## Challanges may ask in interview
-7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
-10. [Remove Duplicates](./01-basic-challenges-1/10-remove-duplicates/readme.md)
+1.7. [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
+1.10. [Remove Duplicates](./01-basic-challenges-1/10-remove-duplicates/readme.md)
+2.1. [FizzBuzz Array](./02-basic-challenges-2/01-fizzbuzz-array/readme.md)
