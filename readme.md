@@ -195,7 +195,11 @@ In this section, we will get into sorting algorithms. We will start with `bubble
 1.7.  [Reverse String](./01-basic-challenges-1/07-reverse-string/readme.md)
 1.10. [Remove Duplicates](./01-basic-challenges-1/10-remove-duplicates/readme.md)
 2.1.  [FizzBuzz Array](./02-basic-challenges-2/01-fizzbuzz-array/readme.md)
-3.01. [Simple Examples](./03-high-order-array-methods/01-simple-examples/readme.md) Cover about 'map, filter, reduce, forEach, find, some, every' functions
+3.1. [Simple Examples](./03-high-order-array-methods/01-simple-examples/readme.md) Cover about 'map, filter, reduce, forEach, find, some, every' functions
 Reduce in JS is use full for some feature like ecommerce (sum of prices, carts,...)
 rounded to 2 decimal places
 parseFloat(totalSalesWithTax.toFixed(2));
+
+4.1. [Recursion Intro (Count Down)](./04-recursion/01-count-down/readme.md)
+ - Recursion: use when have specific base case.
+ - Interation:  use when need to repeating a block of codes.
