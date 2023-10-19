@@ -204,4 +204,7 @@ parseFloat(totalSalesWithTax.toFixed(2));
  - Recursion: use when have specific base case.
  - Interation:  use when need to repeating a block of codes.
 4.4. [Fibonacci Sequence](./04-recursion/04-fibonacci-sequence/readme.md)
-5. [Factorial](./04-recursion/05-factorial/readme.md)
+4.5. [Factorial](./04-recursion/05-factorial/readme.md)
+Useful in work: 5.9. [Sliding Window Technique](./05-complexity/09-sliding-window-technique/readme.md)
+[window-sliding-technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+5.10. [Space Complexity](./05-complexity/10-max-subarray-linear/readme.md)

@@ -17,3 +17,18 @@ function rangeOfNumbers(startNum, endNum) {
   // Return the 'numbers' array containing all the numbers from startNum to endNum
   return numbers;
 }
+
+// rangeOfNumbers(1, 5) => rangeOfNumbers(1, 4).push(5)
+// rangeOfNumbers(1, 4) => rangeOfNumbers(1, 3).push(4)
+// rangeOfNumbers(1, 3) => rangeOfNumbers(1, 2).push(3)
+// rangeOfNumbers(1, 2) => rangeOfNumbers(1, 1).push(2)
+// rangeOfNumbers(1, 1) => Hit Base Case return [1]
+
+// Start unwinding
+// rangeOfNumbers(1, 1) => [1]
+// rangeOfNumbers(1, 2) => [1] push [2] => [1,2]
+// rangeOfNumbers(1, 3) => [1, 2] push [3] => [1,2,3]
+// rangeOfNumbers(1, 4) => [1, 2, 3] push [4] => [1,2,3,4]
+// rangeOfNumbers(1, 5) => [1,2,3,4,5]
+
+console.log(rangeOfNumbers(1, 5));
