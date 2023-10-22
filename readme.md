@@ -215,3 +215,4 @@ Useful in work: 5.9. [Sliding Window Technique](./05-complexity/09-sliding-windo
 6.7. [Sets](./06-hash-tables-maps-sets/07-sets/readme.md)
 
 ## Outside course
+1. [Diffrent between generic collection, non-generic collection](https://www.tutorialsteacher.com/csharp/csharp-collection)
