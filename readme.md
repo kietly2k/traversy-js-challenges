@@ -208,3 +208,8 @@ parseFloat(totalSalesWithTax.toFixed(2));
 Useful in work: 5.9. [Sliding Window Technique](./05-complexity/09-sliding-window-technique/readme.md)
 [window-sliding-technique](https://www.geeksforgeeks.org/window-sliding-technique/)
 5.10. [Space Complexity](./05-complexity/10-max-subarray-linear/readme.md)
+ - 'Map' is similar to object
+ - 'Set' is similar to array
+6.2. [Hash Table Intro](./06-hash-tables-maps-sets/02-hash-table-intro/readme.md)
+6.3. [Maps](./06-hash-tables-maps-sets/03-maps/readme.md)
+6.7. [Sets](./06-hash-tables-maps-sets/07-sets/readme.md)
