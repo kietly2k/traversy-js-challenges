@@ -213,3 +213,5 @@ Useful in work: 5.9. [Sliding Window Technique](./05-complexity/09-sliding-windo
 6.2. [Hash Table Intro](./06-hash-tables-maps-sets/02-hash-table-intro/readme.md)
 6.3. [Maps](./06-hash-tables-maps-sets/03-maps/readme.md)
 6.7. [Sets](./06-hash-tables-maps-sets/07-sets/readme.md)
+
+## Outside course

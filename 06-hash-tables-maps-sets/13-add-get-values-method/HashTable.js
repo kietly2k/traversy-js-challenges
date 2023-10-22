@@ -96,7 +96,16 @@ class HashTable {
     this.storage = [];
   }
 
- // ADD getValues() METHOD
+  getValues() {
+    let arrData = [];
+    for(const data of this.storage){
+      if(data === undefined) continue;
+      arrData.push(data[0][1]);
+    }
+    return arrData;
+  }
+
+  // ADD getValues() METHOD
 }
 
 module.exports = HashTable;
