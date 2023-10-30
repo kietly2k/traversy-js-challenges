@@ -215,6 +215,13 @@ Useful in work: 5.9. [Sliding Window Technique](./05-complexity/09-sliding-windo
 6.7. [Sets](./06-hash-tables-maps-sets/07-sets/readme.md)
 7.2. [Stack Implementation](./07-stacks-queues-linked-lists/02-stack-implementation/readme.md)
 7.6. [Queue Implementation](./07-stacks-queues-linked-lists/06-queue-implementation/readme.md)
-
-## Outside course
-1. [Diffrent between generic collection, non-generic collection](https://www.tutorialsteacher.com/csharp/csharp-collection)
+7.9. [What Is A Linked List?](./07-stacks-queues-linked-lists/09-what-is-a-linked-list/readme.md)
+7.10. [Linked List Implementation](./07-stacks-queues-linked-lists/10-linked-list-implementation/readme.md)
+ - Linked List serve as foundation for implementing orther complex structures (Stacks, Queues, Graphs)
+8.1. [What Is A Tree?](./08-binary-trees-graphs/01-what-is-a-tree/readme.md)
+8. Binary Trees & Binary Search Trees & Graphs
+9. Sorting Algorithms
+9.8. [Merge Sort Algorithm](./09-sorting-algorithms/08-merge-sort-algorithm/readme.md) More effection than Bubble Sort, Insertion Sort, Selection Sort
+ - However, it uses more space than the other three sorts. The choice of which sorting algorithm to use depends on the specific requirements of your problem. For example, if you’re working with smaller datasets or memory is a concern, one of the other sorts might be more appropriate.
+9.10. [Quick Sort Algorithm](./09-sorting-algorithms/10-quick-sort-algorithm/readme.md) 
+- Quick Sort offers an average time complexity of O(n log n), making it one of the fastest sorting algorithms available. It's especially efficient for larger datasets. Quick sort has a better space complexity than a merge sort because merge Sort requires additional memory space to create temporary arrays during the merging process. When merging two subarrays, a temporary array is needed to hold the merged elements before they are placed back into the original array. This additional memory usage can be a drawback for Merge Sort, especially when dealing with very large arrays.
